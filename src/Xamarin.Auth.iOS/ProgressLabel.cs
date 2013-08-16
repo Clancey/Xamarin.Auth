@@ -4,7 +4,7 @@ using System.Drawing;
 
 namespace Xamarin.Controls
 {
-	internal class ProgressLabel : UIView
+	public class ProgressLabel : UIView
 	{
 		UIActivityIndicatorView activity;
 		
